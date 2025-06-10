@@ -1,0 +1,5 @@
+E:\Projects\Login\Login\bin\Release\net46\publish\Login.exe
+E:\Projects\Login\Login\bin\Release\net46\publish\Login.exe.config
+E:\Projects\Login\Login\bin\Release\net46\publish\Login.pdb
+E:\Projects\Login\Login\bin\Release\net46\publish\Mcl.Core.dll
+E:\Projects\Login\Login\bin\Release\net46\publish\Newtonsoft.Json.dll
